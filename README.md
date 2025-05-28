@@ -1,6 +1,6 @@
 # ¡Hola, soy Alvaro! 👋
 
-<!--<img align="right" src="https://raw.githubusercontent.com/AlvaroFerre/AlvaroFerre/main/assets/coding.gif" width="250" alt="Coding gif">-->
+<img align="right" src="https://raw.githubusercontent.com/AlvaroFerre/AlvaroFerre/main/assets/models.png" width="250" alt="Coding gif">
 
 ¡Bienvenido a mi perfil de GitHub!  
 Soy un apasionado del desarrollo y la tecnología, siempre buscando aprender algo nuevo y compartir mis proyectos con la comunidad.
