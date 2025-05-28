@@ -41,7 +41,7 @@ Soy un apasionado del desarrollo y la tecnología, siempre buscando aprender alg
 -->
 ## 📂 Proyectos destacados
 
-- [**Nombre del Proyecto 1**](enlace-al-proyecto) — Breve descripción de tu proyecto más interesante.
+- [**Proyectos-.Net**](enlace-al-proyecto) — Breve descripción de tu proyecto más interesante.
 - [**Nombre del Proyecto 2**](enlace-al-proyecto) — Otro proyecto destacado o divertido.
 
 ---
