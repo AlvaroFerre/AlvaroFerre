@@ -30,7 +30,7 @@ Soy un apasionado del desarrollo y la tecnología, siempre buscando aprender alg
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvarofh01@gmail.com)
-
+<!--
 ---
 
 ## ✨ Frase que me inspira
@@ -38,7 +38,7 @@ Soy un apasionado del desarrollo y la tecnología, siempre buscando aprender alg
 > "El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora."
 
 ---
-
+-->
 ## 📂 Proyectos destacados
 
 - [**Nombre del Proyecto 1**](enlace-al-proyecto) — Breve descripción de tu proyecto más interesante.
