@@ -10,7 +10,7 @@ Soy un apasionado del desarrollo y la tecnología, siempre buscando aprender alg
 ## 🚀 Sobre mí
 
 - 💻 Desarrollador web y entusiasta del código abierto.
-- 🌱 Actualmente aprendiendo sobre **inteligencia artificial** y **automatización**.
+- 🌱 Actualmente aprendiendo sobre **C#** y **SqlServer**.
 - 🛠️ Tecnologías favoritas: **.Net**, **JavaScript**, **Python**, **PHP**, **SqlServer**, **MySQL**.
 - 📍 Basado en España.
 - 🎯 Amante de los retos y la resolución de problemas.
